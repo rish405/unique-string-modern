@@ -40,9 +40,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://example.com/your-repo.git"
+    "url": "git+https://github.com/rish405/unique-string-modern.git"
   },
   "author": "",
   "license": "MIT"
 }
-
